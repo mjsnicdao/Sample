@@ -26,10 +26,10 @@ Note: This Program was executed in a Windows 10 OS
 
 2. Select a file using the upload file button
    
-   ![Upload Image](https://drive.google.com/file/d/1MaggNUMVkdyHB225kD4hM7CwpRx24tWP/view?usp=sharing)
+   ![Upload Image](https://github.com/mjsnicdao/Sample/blob/master/1.png)
 3. Click the Execute button to run the program
 
-    ![Execute Button](https://drive.google.com/file/d/15CrpvGVXtzRo9KKJqeRpU9UVqLhJri3b/view?usp=sharing)
+    ![Execute Button](https://github.com/mjsnicdao/Sample/blob/master/2.png)
 4. If a GIMME input is encountered, type the input in the GIMME text area then hit the submit button, then click the execute button again to proceed with the program
    
-   ![GIMME Button](https://drive.google.com/file/d/10pfcRk_Rqa9CiM9cKnW9DNpwzaxfBae0/view?usp=sharing)
+   ![GIMME Button](https://github.com/mjsnicdao/Sample/blob/master/3.png)
